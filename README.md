@@ -1,5 +1,10 @@
 # Greatest Common Divisor
 
+**Stack:** Java, Spring, Apache CXF, MyBatis, MySQL
+
+**Skills:** SOAP, REST, relational persistence
+
+
 # Features!
   - REST based API to provide input parameters
   - SOAP based API to get GCD, list of GCD and its Sum
